@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1724127496 source:c:\users\sofia\desktop\practico1-grupo3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1724097489 source:g:\otros ordenadores\mi pc\unsl - drive\e-d-a-1\pm1\practico1-grupo3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1724163373 source:c:\users\bautista\desktop\unsl - drive\e-d-a-1\pm1\p1-grupo3\practico1-grupo3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1724358702 source:c:\users\bautista\desktop\unsl - drive\e-d-a-1\pm1\practico1-grupo3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1724423466 source:c:\users\sofia\desktop\p1-grupo3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1724698571 source:g:\otros ordenadores\mi pc\unsl - drive\e-d-a-1\pm1\p1-grupo3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1724696161 source:c:\users\bautista\desktop\unsl - drive\e-d-a-1\pm1\p1-grupo3 (1)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1724874197 source:c:\users\bautista\desktop\unsl - drive\e-d-a-1\pm1\p1-grupo3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1728956590 source:c:\users\bautista\desktop\unsl - drive\e-d-a-1\pm2\p2-grupo3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	<math.h>
+
+1727319628 source:c:\users\sofia\desktop\p2-grupo3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	<math.h>
+
