@@ -1,2 +1,6 @@
 # PM2-EDA-UNSL
-Practico de maquina 2, correspondiente a la materia Estructura de Datos y Algoritmos 1 (UNSL).
+Las consignas de este PM se encuentra en el repositorio con el nombre < prc-mq-2-2024-2c.pdf >
+Estructuras utilizadas:
+ABB (Arbol binario de busqueda)
+Lista Secuencial Ordenada con examinacion secuencial (LSO) con finalizacion dada por contenido (+infinito).
+Lista Secuencial Ordenada con busqueda binaria (LSOBB). 
